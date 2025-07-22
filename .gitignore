@@ -1,0 +1,9 @@
+#Node.js dependencies
+server/node_modules
+client/node_modules
+
+.env
+
+*.log
+
+.DS_Store
